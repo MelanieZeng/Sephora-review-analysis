@@ -11,7 +11,7 @@ pip3 install nltk
 # Todo List
 Items are listed in order of importance. 
 1. Save data in datafile properly (fix error of index out of range)
-2. Low priority: filter out `<strong>` tag and "people" in array_helpful (may use replace())
+2. Low priority: filter out `<strong>` tag and `people` in array_helpful (may use replace())
 
 # Solved Issues
 1. Stop skipping over hidden paragraphs (when reviews are long and you have to click "see more", the crawler skips over these parts)
